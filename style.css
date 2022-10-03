@@ -1,12 +1,61 @@
+.container{
+    margin-bottom: 120px;
+}
 .nav-item{
-    padding: 0px 20px;
+    padding: 0px 17px;
 }
 .button-tab{
+    background-color: black;
+    padding: 10px 30px;
+    color: white;
+    border-radius: 5px;
+    border: none;
 
 }
 .background-image1{
     background-image: url(hot-gadgets/bg-1.png);
     background-repeat: no-repeat;
     background-position: center;
+    background-size: 5%;
+   
+    
     
 }
+.background-image2{
+    background-image: url(hot-gadgets/bg-2.png);
+    background-repeat: no-repeat;
+    background-position: bottom 700px left;
+    background-size:10%;
+}
+.card-img-top{
+    padding: 70px 90px;
+    padding-bottom: 20px;
+}    
+.card{
+    text-align: center;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.catagories-photo1{
+    width: 90%;
+
+}
+.centre{
+    text-align: center;
+}
+.box1{
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    box-shadow: 5px 5px 10px lightgray;
+    padding: 50px;
+    margin-top: 30px;
+    border-radius: 5px 5px;
+
+    
+}
+#move-box{
+    margin-left: 150px;
+}
+
+
+    
